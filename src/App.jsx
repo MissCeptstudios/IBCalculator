@@ -1,9 +1,9 @@
-import IBCalculator from './IBCalculator.jsx'
+import IBCalculator from './icbalculator.jsx'
 
 function App() {
   return (
     <div className="App">
-      <IBCalculator />
+      <icbalculator />
     </div>
   )
 }
