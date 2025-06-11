@@ -1,1 +1,1 @@
-# IBCalculator
+# ibcalculator
